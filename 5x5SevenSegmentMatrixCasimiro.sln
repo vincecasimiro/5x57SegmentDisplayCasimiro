@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "5x5SevenSegmentMatrixCasimiro", "5x5SevenSegmentMatrixCasimiro\5x5SevenSegmentMatrixCasimiro.vbproj", "{8E93E8CF-5B1B-4738-96EF-3D8B36953898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E93E8CF-5B1B-4738-96EF-3D8B36953898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E93E8CF-5B1B-4738-96EF-3D8B36953898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E93E8CF-5B1B-4738-96EF-3D8B36953898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E93E8CF-5B1B-4738-96EF-3D8B36953898}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DC3D7BF-C9CD-4BE5-95FA-8F82084462F0}
+	EndGlobalSection
+EndGlobal

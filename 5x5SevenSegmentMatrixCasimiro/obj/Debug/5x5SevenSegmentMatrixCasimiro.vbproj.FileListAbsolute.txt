@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\5x5SevenSegmentMatrixCasimiro\5x5SevenSegmentMatrixCasimiro\bin\Debug\5x5SevenSegmentMatrixCasimiro.exe.config
+C:\Users\Acer\source\repos\5x5SevenSegmentMatrixCasimiro\5x5SevenSegmentMatrixCasimiro\bin\Debug\5x5SevenSegmentMatrixCasimiro.exe
+C:\Users\Acer\source\repos\5x5SevenSegmentMatrixCasimiro\5x5SevenSegmentMatrixCasimiro\bin\Debug\5x5SevenSegmentMatrixCasimiro.pdb
+C:\Users\Acer\source\repos\5x5SevenSegmentMatrixCasimiro\5x5SevenSegmentMatrixCasimiro\bin\Debug\5x5SevenSegmentMatrixCasimiro.xml
+C:\Users\Acer\source\repos\5x5SevenSegmentMatrixCasimiro\5x5SevenSegmentMatrixCasimiro\obj\Debug\5x5SevenSegmentMatrixCasimiro.vbprojAssemblyReference.cache
+C:\Users\Acer\source\repos\5x5SevenSegmentMatrixCasimiro\5x5SevenSegmentMatrixCasimiro\obj\Debug\_5x5SevenSegmentMatrixCasimiro.Form1.resources
+C:\Users\Acer\source\repos\5x5SevenSegmentMatrixCasimiro\5x5SevenSegmentMatrixCasimiro\obj\Debug\_5x5SevenSegmentMatrixCasimiro.Resources.resources
+C:\Users\Acer\source\repos\5x5SevenSegmentMatrixCasimiro\5x5SevenSegmentMatrixCasimiro\obj\Debug\5x5SevenSegmentMatrixCasimiro.vbproj.GenerateResource.cache
+C:\Users\Acer\source\repos\5x5SevenSegmentMatrixCasimiro\5x5SevenSegmentMatrixCasimiro\obj\Debug\5x5SevenSegmentMatrixCasimiro.exe
+C:\Users\Acer\source\repos\5x5SevenSegmentMatrixCasimiro\5x5SevenSegmentMatrixCasimiro\obj\Debug\5x5SevenSegmentMatrixCasimiro.xml
+C:\Users\Acer\source\repos\5x5SevenSegmentMatrixCasimiro\5x5SevenSegmentMatrixCasimiro\obj\Debug\5x5SevenSegmentMatrixCasimiro.pdb
