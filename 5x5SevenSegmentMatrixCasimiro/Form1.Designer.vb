@@ -257,10 +257,10 @@ Partial Class Form1
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!)
-        Me.Label1.Location = New System.Drawing.Point(15, 286)
+        Me.Label1.Font = New System.Drawing.Font("Times New Roman", 15.0!, System.Drawing.FontStyle.Bold)
+        Me.Label1.Location = New System.Drawing.Point(20, 278)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(258, 25)
+        Me.Label1.Size = New System.Drawing.Size(247, 23)
         Me.Label1.TabIndex = 25
         Me.Label1.Text = "5 x 5 Seven Segment Matrix"
         '
@@ -270,20 +270,20 @@ Partial Class Form1
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(15, 311)
+        Me.Label2.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label2.Location = New System.Drawing.Point(12, 311)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(138, 20)
+        Me.Label2.Size = New System.Drawing.Size(152, 21)
         Me.Label2.TabIndex = 26
         Me.Label2.Text = "Casimiro, Vince R."
         '
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(182, 311)
+        Me.Label3.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label3.Location = New System.Drawing.Point(179, 311)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(89, 20)
+        Me.Label3.Size = New System.Drawing.Size(96, 21)
         Me.Label3.TabIndex = 27
         Me.Label3.Text = "BSCpE 5-3"
         '
